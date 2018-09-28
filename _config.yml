@@ -1,6 +1,6 @@
 # Site settings
 title: "Diego Gobbi Slomp"
-description: "Diego G. Slomp | Tecnólogo em Redes de Computadores | diegogslomp@gmail.com"
+description: "Diego G. Slomp | Computer Networks Technologist | diegogslomp@gmail.com"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Diego Gobbi Slomp"
-resume_title:                   "IT Professional"
+resume_title:                   "Computer Networks Technologist"
 resume_contact_email:           "diegogslomp@gmail.com"
 
 # use "yes" to display the email contact button,
