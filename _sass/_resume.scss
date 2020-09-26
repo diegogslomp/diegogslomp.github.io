@@ -131,7 +131,6 @@
 
   .resume-item-title {
     @include sans_bold;
-    margin: 0 0 0.75rem;
     font-size: 1.5rem;
     letter-spacing: -0.05rem;
     line-height: 1;
@@ -139,7 +138,6 @@
 
   .resume-item-details {
     font-size: 1.125rem;
-    margin: 0 0 0.75rem;
     line-height: 1;
   }
 
