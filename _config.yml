@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar: "true"
-# resume_name: "Diego Gobbi Slomp"
-resume_title: "Diego Gobbi Slomp"
+resume_name: "Diego Gobbi Slomp"
+# resume_title: "Diego Gobbi Slomp"
 resume_contact_email: "diegogslomp@gmail.com"
 
 # use "yes" to display the email contact button,
