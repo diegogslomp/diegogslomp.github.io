@@ -73,14 +73,7 @@
   padding: 0;
   list-style: none;
   position: relative;
-  top: 4px;
   text-align: center;
-  padding-top: 0.4rem;
-
-  @include media_larger_than_mobile {
-    border-top: none;
-    padding-top: 0;
-  }
 
   .icon-link-item {
     display: inline-block;
