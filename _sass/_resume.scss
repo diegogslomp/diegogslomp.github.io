@@ -78,7 +78,6 @@
   padding-top: 0.4rem;
 
   @include media_larger_than_mobile {
-    float: right;
     border-top: none;
     padding-top: 0;
   }
