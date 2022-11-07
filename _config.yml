@@ -38,8 +38,8 @@ resume_social_links:
   # resume_dribbble_url: "insert Dribbble URL here"
   # resume_facebook_url: "https://www.facebook.com/diegogslomp"
   resume_linkedin_url: "https://www.linkedin.com/in/diego-gobbi-slomp-876b1914"
-  resume_instagram_url: "https://www.instagram.com/diegoslomp_"
-  resume_website_url: "https://diegogslomp.github.io"
+  # resume_instagram_url: "https://www.instagram.com/diegoslomp_"
+  # resume_website_url: "https://diegogslomp.github.io"
 
 # Design settings
 resume_theme: default
