@@ -35,3 +35,6 @@ footer {
   text-align:center
 }
 
+ul{
+  padding: 0; /* Remove padding */
+}
